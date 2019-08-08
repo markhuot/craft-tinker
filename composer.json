@@ -1,5 +1,5 @@
 {
-    "name": "markhuot/crafttinker",
+    "name": "markhuot/craft-tinker",
     "description": "A Tinker tool for Craft",
     "type": "craft-plugin",
     "require": {
