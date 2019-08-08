@@ -1,0 +1,20 @@
+{
+    "name": "markhuot/crafttinker",
+    "description": "A Tinker tool for Craft",
+    "type": "craft-plugin",
+    "require": {
+        "psy/psysh": "^0.9.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "markhuot\\crafttinker\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "Craft Tinker",
+        "handle": "crafttinker",
+        "developer": "Mark Huot",
+        "developerUrl": "https://www.github.com/markhuot",
+        "class": "markhuot\\crafttinker\\CraftTinker"
+    }
+}
